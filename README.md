@@ -13,7 +13,7 @@ It can be very disheartening to feel helpless in a community that needs your hel
 
 # Deployment
 
-This project is still in ongoing development, but feel free to visit our deployed application here to reference the time and work we've put in so far!
+This project is still in ongoing development, but feel free to visit our deployed application here to reference the time and work we've put in so far! Click on any screenshot below to navigate to the application.
 
 <a href="https://sapient-origin.herokuapp.com/home"><img src="./package-assets/header-page.png"></a>
 
